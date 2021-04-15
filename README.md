@@ -46,7 +46,7 @@ I did not experience any other challenges or difficulties.
 
 * Goal amounts do not appear to be correlated to campaign cancelations.
 
-* There is mostly an inverse relationship between the percentage successful and percentage failed for any given goal amount.
+* There is an inverse relationship between the _percentage successful_ and _percentage failed_ for any given goal amount, except for the points where the two lines intersect.
 
 **What are some limitations of this dataset?**
 
