@@ -1,4 +1,4 @@
-# Module 1: Kickstarter Challenge
+# Module 1: Kickstarter Funding Campaign
 ## Overview of Project
 
 In Module 1 we used Excel to organize, sort and analyze crowdfunding data to assist Loise, a playwright, plan a funding campaign for her play *Fever*.
