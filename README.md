@@ -15,9 +15,19 @@ The analysis in this challenge is intended to answer two questions:
 ### Analysis of Outcomes Based on Launch Date
 For this first analysis I leveraged the pivot tables and graphing functionality in excel to organize and analyze the data.  While the pivot and graph provide the same information, the graph is a more visually appealing representation and tends to be more useful for quickly spotting trends.
 
+![Outcomes_vs_Launch_Pivot](https://user-images.githubusercontent.com/80796467/114803943-6320f600-9d6e-11eb-8bda-0bfb08d7ecc3.png)
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/80796467/114804049-9bc0cf80-9d6e-11eb-8d09-7ca7ce7ad483.png)
+
+
 ### Analysis of Outcomes Based on Goals
 
 In order to graph the Outcomes Based on Goals for the plays subcategory, I created a dataset with eight columns and twelve rows.  I started by setting goal ranges in each row, then used COUNTIFS( ), SUM( )and percentage formulas to populate the correct values in each cell.  I then created a line graph to visually represent the data.
+
+![Outcomes_vs_Goals_Table](https://user-images.githubusercontent.com/80796467/114804097-b7c47100-9d6e-11eb-9267-a54c6a0e0f5e.png)
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/80796467/114804109-bdba5200-9d6e-11eb-8190-49c75753f5ff.png)
+
 
 ### Challenges and Difficulties Encountered
 In working through the Outcomes Based on Goal, I noticed the goal ranges we were asked to enter did not include “50000” in any ranges.  In other words, none of the ranges would have captured any of the campaigns with a goal of exactly 50000.  
